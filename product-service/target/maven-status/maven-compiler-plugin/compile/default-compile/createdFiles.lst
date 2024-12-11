@@ -1,0 +1,12 @@
+com\cdac\product_service\dbconnect\DBConfig.class
+com\cdac\product_service\dto\ProductResponse.class
+com\cdac\product_service\dto\ProductResponse$ProductResponseBuilder.class
+com\cdac\product_service\dto\ProductRequest.class
+com\cdac\product_service\model\Product$ProductBuilder.class
+com\cdac\product_service\repository\ProductRepository.class
+com\cdac\product_service\ProductServiceApplication.class
+com\cdac\product_service\dbconnect\DriverConnect.class
+com\cdac\product_service\model\Product.class
+com\cdac\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\cdac\product_service\controller\ProductController.class
+com\cdac\product_service\service\ProductService.class
